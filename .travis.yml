@@ -4,3 +4,4 @@ node_js:
 deploy:
   provider: heroku
   api_key: c71dd0f8-0446-45e9-95f8-6f1eec7d8e81
+  app: travispru-caro
